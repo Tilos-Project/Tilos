@@ -33,7 +33,5 @@ tags={
 	"Map"
 	"Utilities"
 }
-picture="Thumbnail.png"
-version="0.0"
+version="1.12.7"
 supported_version="1.12.7"
-path="C:/Users/Whiskey/Documents/Paradox Interactive/Hearts of Iron IV/mod/Tilos"
