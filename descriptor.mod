@@ -30,10 +30,8 @@ replace_path="common/units/codenames_operatives"
 replace_path="events"
 replace_path="music"
 tags={
-	"Map"
-	"Utilities"
+    "Map"
+    "Utilities"
 }
-picture="Thumbnail.png"
-version="0.0"
+version="1.12.7"
 supported_version="1.12.7"
-path="C:/Users/Whiskey/Documents/Paradox Interactive/Hearts of Iron IV/mod/Tilos"

@@ -4,6 +4,14 @@ state={
 	provinces={
 		3941 5362 5908 10667 16484 16494 16496 16500 16546 
 	}
+	history = {
+        owner = SPA
+        add_core_of = SPA
+        buildings = {
+            infrastructure = 1
+            industrial_complex = 1
+        }
+    }
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

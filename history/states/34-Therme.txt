@@ -5,6 +5,14 @@ state={
 	provinces={
 		6632 7568 17428 
 	}
+	history = {
+        owner = SPA
+        add_core_of = SPA
+        buildings = {
+            infrastructure = 1
+            industrial_complex = 1
+        }
+    }
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

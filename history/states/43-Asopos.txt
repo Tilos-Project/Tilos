@@ -5,7 +5,16 @@ state={
 	provinces={
 		1585 1735 3088 7607 16590 16597 16611 16613 16658 16659 16678 
 	}
-	manpower=0
-	buildings_max_level_factor=1.000
-	local_supplies=0.000
+	history = {
+        owner = SPA
+        add_core_of = SPA
+        buildings = {
+            infrastructure = 1
+            industrial_complex = 1
+        }
+    }
+    manpower=500000
+    buildings_max_level_factor=1.000
+    state_category=town
+    local_supplies=0.000
 }
