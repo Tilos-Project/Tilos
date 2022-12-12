@@ -21,3 +21,6 @@ set_popularities = {
 	communism = 10
 	neutrality = 4
 }
+add_ideas = {
+ LAS_scattered_pop
+ }
