@@ -1,0 +1,23 @@
+ideas = {
+
+	country = {
+		SPA_political_desparity = {
+
+			picture = chi_wargaming_division
+			
+			allowed = {
+				tag = SPA
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				add_stability = 0.10
+			}
+		}
+	}
+}
