@@ -4,6 +4,13 @@ state={
 	provinces={
 		17425 17426 17427 
 	}
+	history = {
+        owner = PAR
+        add_core_of = PAR
+        buildings = {
+            infrastructure = 1
+            industrial_complex = 1
+        }
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

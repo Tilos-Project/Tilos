@@ -1,3 +1,5 @@
-SPA = "countries/Sparta.txt"
-ATH = "countries/Athens.txt"
-
+SPA = "countries/Sparzonea.txt"
+HIN = "countries/Hinari.txt"
+LAS = "countries/Lasan.txt"
+NER = "countries/Neral.txt"
+PAR = "countries/Parwa.txt"

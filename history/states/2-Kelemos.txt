@@ -5,6 +5,13 @@ state={
 	provinces={
 		2168 7268 9346 16380 16422 17420 
 	}
+	history = {
+        owner = LAS
+        add_core_of = LAS
+        buildings = {
+            infrastructure = 1
+            industrial_complex = 1
+        }
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

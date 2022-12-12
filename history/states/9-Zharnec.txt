@@ -4,6 +4,13 @@ state={
 	provinces={
 		2763 5916 8663 9914 16044 
 	}
+	history = {
+        owner = HIN
+        add_core_of = HIN
+        buildings = {
+            infrastructure = 1
+            industrial_complex = 1
+        }
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

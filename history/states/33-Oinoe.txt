@@ -5,15 +5,14 @@ state={
 	provinces={
 		1223 4979 16477 
 	}
-history = {
-        owner = ATH
-        add_core_of = ATH
+	history = {
+        owner = SPA
+        add_core_of = SPA
         buildings = {
             infrastructure = 1
             industrial_complex = 1
         }
-    }
-	manpower=1
+	manpower=0
 	buildings_max_level_factor=1.000
-	local_supplies=1.000
+	local_supplies=0.000
 }
