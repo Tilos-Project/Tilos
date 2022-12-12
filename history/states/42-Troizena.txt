@@ -1,0 +1,11 @@
+
+state={
+	id=42
+	name="STATE_42"
+	provinces={
+		6334 8619 8837 16521 16557 16584 17432 17444 17449 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
