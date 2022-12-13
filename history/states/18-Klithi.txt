@@ -5,8 +5,8 @@ state={
 		674 7967 9366 16101 
 	}
 	history = {
-        owner = LAS
-        add_core_of = LAS
+        owner = HIN
+        add_core_of = HIN
         buildings = {
             infrastructure = 1
             industrial_complex = 1
