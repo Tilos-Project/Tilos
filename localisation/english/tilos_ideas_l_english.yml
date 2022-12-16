@@ -1,3 +1,7 @@
 ﻿l_english:
  LAS_scattered_pop:0 "Scattered Population"
- LAS_scattered_pop_desc:0 "a"
+ LAS_scattered_pop_desc:0 "Having an uncentralized population makes doing much at all a chore."
+ LAS_local_militias:0 "Local Militias"
+ LAS_local_militias_desc:0 "The Military of Lasan is characterised by independent, small-scale militias."
+ LAS_mountaineer_military:0 "Mountaineer Military
+ LAS_mountaineer_military_desc:0 "Our country is a majority mountains and our military reflects it perfectly."

@@ -23,4 +23,6 @@ set_popularities = {
 }
 add_ideas = {
  LAS_scattered_pop
+ LAS_local_militias
+ LAS_mountaineer_military
  }

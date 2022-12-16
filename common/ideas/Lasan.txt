@@ -16,10 +16,51 @@ ideas = {
             removal_cost = -1
 
             modifier = {
-                research_speed_factor = -0.01
-				stability_factor = -0.1
+                research_speed_factor = -0.10
+				stability_factor = -0.2
 				political_power_factor = -0.1
             }
         }
+		LAS_local_militias = {
+
+            picture = chi_wargaming_division
+
+            allowed = {
+                tag = LAS
+            }
+
+            allowed_civil_war = {
+                always = yes
+            }
+
+            removal_cost = -1
+
+            modifier = {
+                army_attack_factor = -0.1
+				army_defence_factor = -0.1
+				army_core_attack_factor = 0.2
+				army_core_defence_factor = 0.2
+				stability_factor = 0.05
+			}
+		}
+		LAS_mountaineer_military = {
+
+            picture = chi_wargaming_division
+
+            allowed = {
+                tag = LAS
+            }
+
+            allowed_civil_war = {
+                always = yes
+            }
+
+            removal_cost = -1
+
+            modifier = {
+                mountain_infantry_attack_factor = 0.1
+				mountain_infantry_defence_factor = 0.1
+			}
+		}
     }
 }
